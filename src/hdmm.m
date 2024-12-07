@@ -1,9 +1,4 @@
-% Human action recognition
-%my first try with h1 subband level 2 and svm 
-% Test dataset : MSR Action3D
-% Cross Subject Test
-% by Chen Chen, The University of0 Texas at Dallas
-% chenchen870713@gmail.com
+
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%%%%%% Subjects for training and testing are FIXED.
